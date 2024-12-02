@@ -62,7 +62,7 @@ def check_low_stock_and_notify():
     
     url = "https://api.textlocal.in/send/"
     
-    apikey = "NDczMDQzNDI1NDcxNzg3OTQzNjg3NzQ2NGY3MDYyNzU="
+    apikey = "<your_key>"
     message = (
         "For job post name ERPNEXT, a selected candidate has accepted the opportunity. "
         "Please visit the link to complete the post formalities. The Job Plus Team"
