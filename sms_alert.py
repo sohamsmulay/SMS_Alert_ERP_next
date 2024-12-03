@@ -64,8 +64,7 @@ def check_low_stock_and_notify():
     
     apikey = "<your_key>"
     message = (
-        "For job post name ERPNEXT, a selected candidate has accepted the opportunity. "
-        "Please visit the link to complete the post formalities. The Job Plus Team"
+        "Your MSG"
                 )
     numbers =   mobile_numbers
     sender = "JOBPLS"
